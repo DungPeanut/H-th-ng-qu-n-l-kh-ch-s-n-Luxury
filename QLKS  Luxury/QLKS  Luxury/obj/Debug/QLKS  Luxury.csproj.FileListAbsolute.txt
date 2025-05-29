@@ -1,0 +1,15 @@
+C:\Users\ADMIN\OneDrive\Desktop\QLKS  Luxury\QLKS  Luxury\bin\Debug\QLKS  Luxury.exe.config
+C:\Users\ADMIN\OneDrive\Desktop\QLKS  Luxury\QLKS  Luxury\bin\Debug\QLKS  Luxury.exe
+C:\Users\ADMIN\OneDrive\Desktop\QLKS  Luxury\QLKS  Luxury\bin\Debug\QLKS  Luxury.pdb
+C:\Users\ADMIN\OneDrive\Desktop\QLKS  Luxury\QLKS  Luxury\obj\Debug\QLKS  Luxury.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Desktop\QLKS  Luxury\QLKS  Luxury\obj\Debug\QLKS__Luxury.Form1.resources
+C:\Users\ADMIN\OneDrive\Desktop\QLKS  Luxury\QLKS  Luxury\obj\Debug\QLKS__Luxury.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Desktop\QLKS  Luxury\QLKS  Luxury\obj\Debug\QLKS  Luxury.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Desktop\QLKS  Luxury\QLKS  Luxury\obj\Debug\QLKS  Luxury.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\QLKS  Luxury\QLKS  Luxury\obj\Debug\QLKS  Luxury.exe
+C:\Users\ADMIN\OneDrive\Desktop\QLKS  Luxury\QLKS  Luxury\obj\Debug\QLKS  Luxury.pdb
+C:\Users\ADMIN\OneDrive\Desktop\QLKS  Luxury\QLKS  Luxury\obj\Debug\QLKS__Luxury.Dashboard.resources
+C:\Users\ADMIN\OneDrive\Desktop\QLKS  Luxury\QLKS  Luxury\obj\Debug\QLKS__Luxury.Form2.resources
+C:\Users\ADMIN\OneDrive\Desktop\QLKS  Luxury\QLKS  Luxury\obj\Debug\QLKS__Luxury.Form3.resources
+C:\Users\ADMIN\OneDrive\Desktop\QLKS  Luxury\QLKS  Luxury\obj\Debug\QLKS__Luxury.Form4.resources
+C:\Users\ADMIN\OneDrive\Desktop\QLKS  Luxury\QLKS  Luxury\obj\Debug\QLKS__Luxury.Form5.resources
